@@ -1,11 +1,12 @@
 <h1>Suraj Kumar</h1>
-I am Suraj Kumar currently pursuing B.tech in Electrical and Electronics at NIT Andhra Pradesh,which is considered as one of the prestigous college in india.I am a coding enthusiast and i am on my way to develop my coding skills .I have solved more than 100 DSA questions across different platforms and also have some basic knowledge of web developement and continuing it. I am a sport person and used to play circket mostly. I also like to watch sports. I am also a pencil sketch artist. Do Connect with me if you have intrest in any of the metioned areas.
+I am Suraj Kumar currently pursuing B.tech in Electrical and Electronics at NIT Andhra Pradesh,which is considered as one of the prestigous college in india.I am a ML and coding enthusiast and right now i am on my way to develop my coding skills .I have solved more than 100 DSA questions across different platforms and also have some basic knowledge of web developement and continuing it. I am a sport person and like to play and watch cricket on my free times. I am also a sketch artist. Do Connect with me if you have intrest in any of the metioned areas.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SK_Agrawal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sk_agrawal_007) 
 
 # 🔧 Skills:
 - Data Structures and Algorithms
+- Machine learning and coding
 - Web Development: HTML, CSS, JavaScript
 - Database Management: MySQL
 - Programming Languages: Python, C, C++
